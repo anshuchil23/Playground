@@ -8,6 +8,7 @@ let mic;
 var vScale = 16;
 
 function setup() {
+  alert("Play some music bruh");
   createCanvas(640, 480);
   pixelDensity(1);
   video = createCapture(VIDEO);
