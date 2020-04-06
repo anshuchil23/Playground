@@ -109,7 +109,7 @@ img:hover{
 .text {
   color: snow;
     font-family: 'Open Sans Condensed', sans-serif;
-    letter-spacing: -1px;
+    letter-spacing: 2px;
   font-size: 25px;
   padding: 28px 12px;
   position: absolute;
