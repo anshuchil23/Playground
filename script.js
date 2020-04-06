@@ -11,6 +11,7 @@ function currentSlide(n) {
 }
 
 function showSlides(n) {
+  alert("This is your Playground");
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
